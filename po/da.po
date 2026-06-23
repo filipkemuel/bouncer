@@ -501,7 +501,7 @@ msgstr ""
 #. URL.
 #: src/main.js:224
 msgid "translator-credits"
-msgstr "oversætter-kreditering"
+msgstr "Filip Kemuel <https://github.com/filipkemuel>"
 
 #: src/main.js:253
 msgid " Bouncer is shutting down. You will need to restart manually."
